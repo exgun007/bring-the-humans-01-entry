@@ -13,3 +13,9 @@ Open `index.html` in a browser. The page is a self-contained static HTML file.
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=c28zqvpd&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+
+
+### Preview screenshots
+
+- Desktop: [`screenshots/desktop-ux-check.png`](screenshots/desktop-ux-check.png)
+- Narrow/mobile: [`screenshots/narrow-ux-check.png`](screenshots/narrow-ux-check.png)
